@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.wipro.more.container&apos; to &apos;Container&apos;&#x0D;&#x0A;- Original project: &apos;More Generics&apos;&#x0D;&#x0A;- Original element: &apos;com.wipro.more.container&apos;&#x0D;&#x0A;- Renamed element: &apos;com.wipro.more.Container&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;container&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.wipro.more{container.java[container" matchStrategy="1" name="Container" qualified="false" references="true" similarDeclarations="false" stamp="1645861801956" textual="false" version="1.0"/>
+</session>

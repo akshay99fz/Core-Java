@@ -1,0 +1,12 @@
+
+public class Test {
+
+	public static void main(String[] args) {
+		
+		Container<String, Integer> con = new Container<String, Integer>("Akshay", 12);
+		String a = con.getItem1();
+		System.out.println(a);
+
+	}
+
+}

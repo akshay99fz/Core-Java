@@ -1,0 +1,5 @@
+package com.wipro.more;
+
+public class Engineer extends Employee{
+
+}

@@ -1,0 +1,15 @@
+package com.wipro.more;
+
+public class Application {
+
+	public static void main(String[] args) {
+		
+		Object obj = new Object();
+		String abc = "Akshay";
+		obj = abc;
+		
+		System.out.println(obj);
+
+	}
+
+}

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
+    <fullyQualifiedTypeName name="com.wipro.java.MyUtils"/>
+    <fullyQualifiedTypeName name="com.wipro.other.Example"/>
+    <fullyQualifiedTypeName name="Humans"/>
+    <fullyQualifiedTypeName name="Male"/>
+    <fullyQualifiedTypeName name="com.oop.utils.Animals"/>
+    <fullyQualifiedTypeName name="java.lang.StringBuffer"/>
+    <fullyQualifiedTypeName name="car_dealership.Customer"/>
+    <fullyQualifiedTypeName name="car_dealership.Employee"/>
+    <fullyQualifiedTypeName name="car_dealership.Vehicle"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="com.wipro.fp.Example"/>
+    <fullyQualifiedTypeName name="java.io.FileReader"/>
+    <fullyQualifiedTypeName name="java.io.BufferedReader"/>
+    <fullyQualifiedTypeName name="java.lang.AutoCloseable"/>
+    <fullyQualifiedTypeName name="com.wipro.fr.MyClass"/>
+    <fullyQualifiedTypeName name="com.wipro.collections.Lists"/>
+    <fullyQualifiedTypeName name="java.util.LinkedList"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="com.wipro.implement.Animal"/>
+    <fullyQualifiedTypeName name="com.wipro.implement.AnimalData"/>
+    <fullyQualifiedTypeName name="com.wipro.sets.TestHuman"/>
+    <fullyQualifiedTypeName name="com.wipro.other.StringEg"/>
+    <fullyQualifiedTypeName name="java.sql.Connection"/>
+    <fullyQualifiedTypeName name="com.wipro.database.DataConn"/>
+    <fullyQualifiedTypeName name="Container"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="java.util.HashSet"/>
+    <fullyQualifiedTypeName name="java.util.Iterator"/>
+    <fullyQualifiedTypeName name="java.lang.Object"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="com.wipro.more.Employee"/>
+    <fullyQualifiedTypeName name="com.wipro.more.Engineer"/>
+</qualifiedTypeNameHistroy>

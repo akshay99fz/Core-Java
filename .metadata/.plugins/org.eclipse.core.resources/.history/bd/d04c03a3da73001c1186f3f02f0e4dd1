@@ -1,0 +1,12 @@
+package com.example.practice.demo;
+
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class message {
+	@RequestMapping("/")
+	public void getMessage() {
+	System.out.println("Hi There, I am using Spring Boot");
+	}
+}
