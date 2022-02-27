@@ -38,4 +38,7 @@
     <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="com.wipro.more.Employee"/>
     <fullyQualifiedTypeName name="com.wipro.more.Engineer"/>
+    <fullyQualifiedTypeName name="com.wipro.threading.Application.Example"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
+    <fullyQualifiedTypeName name="java.lang.Runnable"/>
 </qualifiedTypeNameHistroy>
